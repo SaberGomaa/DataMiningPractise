@@ -1,3 +1,3 @@
 # DataMiningPractise
 Data Mining Practise
-##End preprocessing phase code
+##End preprocessing and visualzation  phase code
